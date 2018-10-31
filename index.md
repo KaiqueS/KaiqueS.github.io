@@ -2,6 +2,10 @@
 layout: default
 ---
 
+Self-proclaimed Computational Social Scientist. Actually, a Politologist.
+
+Casual and academic posts about Politics, Computer Science, and Mathematics.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
