@@ -4,9 +4,9 @@ layout: default
 
 ## Be welcome! This blog is made by...
 
-A self-proclaimed Computational Social Scientist. Who is, actually, a Politologist.
+Kaíque P. S., a self-proclaimed Computational Social Scientist. Who is, actually, a Politologist. Ain't that bad, is it?
 
-Casual and academic posts about Politics, Computer Science, and Mathematics. Some posts about softwares that may be being developed.
+Casual and academic posts about Politics, Computer Science, and Mathematics. Some posts about softwares that may be being developed. Discussions allowed!
 
 Hope you all enjoy!
 
@@ -16,13 +16,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+## First post! A brief intro to Computational Social Science
 
 > This is a blockquote following a header.
 >
