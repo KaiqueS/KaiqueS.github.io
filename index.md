@@ -18,9 +18,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-### First post! A brief intro to Computational Social Science
+### First post! A brief introduction to Computational Social Science
 
-
+### Second post. A series about CSS Tools: On Agent Based Models!
 
 > This is a blockquote following a header.
 >
