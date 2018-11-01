@@ -4,7 +4,7 @@ layout: default
 
 ## Be welcome! This blog is made by...
 
-... A self-proclaimed Computational Social Scientist. Actually, a Politologist.
+A self-proclaimed Computational Social Scientist. Who is, actually, a Politologist.
 
 Casual and academic posts about Politics, Computer Science, and Mathematics. Some posts about softwares that may be being developed.
 
