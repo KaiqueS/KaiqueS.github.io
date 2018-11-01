@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Preamble
+## Be welcome! This blog is made by...
 
-Self-proclaimed Computational Social Scientist. Actually, a Politologist.
+... A self-proclaimed Computational Social Scientist. Actually, a Politologist.
 
 Casual and academic posts about Politics, Computer Science, and Mathematics. Some posts about softwares that may be being developed.
 
