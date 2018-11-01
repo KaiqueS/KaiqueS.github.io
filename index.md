@@ -6,7 +6,7 @@ layout: default
 
 Kaíque P. S., self-proclaimed Computational Social Scientist. Well, actually, I am a Politologist. Ain't that bad, is it?
 
-Casual and academic posts about Politics, Computer Science, and Mathematics. Some posts about softwares that may be being developed. Discussions allowed!
+Casual and academic posts about Political Science, Computer Science, and Mathematics. Some posts about softwares that may be being developed. Discussions allowed!
 
 Hope you all enjoy!
 
@@ -19,6 +19,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 ### First post! A brief intro to Computational Social Science
+
+
 
 > This is a blockquote following a header.
 >
