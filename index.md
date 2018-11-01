@@ -4,7 +4,9 @@ layout: default
 
 Self-proclaimed Computational Social Scientist. Actually, a Politologist.
 
-Casual and academic posts about Politics, Computer Science, and Mathematics.
+Casual and academic posts about Politics, Computer Science, and Mathematics. Some posts about softwares that may be being developed.
+
+Hope you all enjoy!
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
