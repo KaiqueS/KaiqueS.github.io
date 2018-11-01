@@ -16,7 +16,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-## First post! A brief intro to Computational Social Science
+### First post! A brief intro to Computational Social Science
 
 > This is a blockquote following a header.
 >
