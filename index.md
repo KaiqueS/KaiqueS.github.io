@@ -4,11 +4,13 @@ layout: default
 
 ## Be welcome! This blog is made by...
 
-Kaíque P. S., a self-proclaimed Computational Social Scientist. Who is, actually, a Politologist. Ain't that bad, is it?
+Kaíque P. S., self-proclaimed Computational Social Scientist. Well, actually, I am a Politologist. Ain't that bad, is it?
 
 Casual and academic posts about Politics, Computer Science, and Mathematics. Some posts about softwares that may be being developed. Discussions allowed!
 
 Hope you all enjoy!
+
+Oh! Before I forget: sometimes I may start writing is Português Brasileiro. Trying to be inclusive here, hope you'll understand.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
