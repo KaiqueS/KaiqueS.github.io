@@ -55,6 +55,6 @@ The Computer Science List:
 ```
 
 
-### About: Political Science curriculum - How to improve
+#### About: Political Science curriculum - How to improve
 
 This post refers, but no exclusively, to... lets call it PSD( reads Political Science Department ), or DCP in Brazilian Portuguese.
