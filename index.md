@@ -22,6 +22,8 @@ There should be whitespace between paragraphs.
 
 ### Second post. A series about CSS Tools: On Agent Based Models!
 
+### Walkthrough: The mathematics & computer skills to get into Formal Theory! A Personal guide.
+
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
