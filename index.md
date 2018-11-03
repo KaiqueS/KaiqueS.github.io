@@ -12,11 +12,11 @@ Hope you all enjoy!
 
 Oh! Before I forget: sometimes I may start writing in Português Brasileiro. Trying to be inclusive here, hope you'll understand.
 
-### First post! A brief introduction to Computational Social Science
+#### First post! A brief introduction to Computational Social Science
 
-### Second post. A series about CSS Tools: On Agent Based Models!
+#### Second post. A series about CSS Tools: On Agent Based Models!
 
-### Walkthrough: The mathematics & computer skills to get into Formal Theory! A Personal guide.
+#### Walkthrough: The mathematics & computer skills to get into Formal Theory! A Personal guide.
 
 When around the half of my undergraduation, I happened to come across with two areas that are, since this first contact, my favorites. They are
 Game Theory annd Social Choice Theory. The problem is, even though the professors kept talking about how important those subjects are, they both
