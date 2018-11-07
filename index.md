@@ -42,6 +42,7 @@ The Math graph:
 ```
 
 ![mathgraph](https://github.com/KaiqueS/KaiqueS.github.io/blob/master/assets/images/mathgraph.pdf)
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 Now, some bonus. They may be not directly, nor necessarily related to GT and SCT, BUT! And that is a big but, they not only can, but are being used
