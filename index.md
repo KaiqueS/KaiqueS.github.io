@@ -39,9 +39,10 @@ The Math list:
 ```
 The Math graph:
 
+```
+
 ![mathgraph](https://github.com/KaiqueS/KaiqueS.github.io/blob/master/assets/images/mathgraph.png)
 
-```
 
 Now, some bonus. They may be not directly, nor necessarily related to GT and SCT, BUT! And that is a big but, they not only can, but are being used
 in GT and SCT research. Along with the math above, the computer skills below will make possible for one to learn and perform research in, mostly,
