@@ -41,10 +41,10 @@ The Math graph:
 
 ```
 
-![mathgraph](KaiqueS.github.io/assets/images/mathgraph.pdf)
+![mathgraph](KaiqueS.github.io/assets/images/mathgraph.png)
 
 Now, some bonus. They may be not directly, nor necessarily related to GT and SCT, BUT! And that is a big but, they not only can, but are being used
-in GT and SCT research. Along with the math above, the computer skills below will make possible for one to learn and perform research in, mostly,
+in GT and SCT research. Along with the math above, the computer skills below will make it possible for one to learn and perform research in, mostly,
 Algorithmic Game Theory and Computational Social Choice Theory. Those skills will also make much more easir for one to get into Agent-Based Modeling!
 
 ```
