@@ -18,8 +18,8 @@ Oh! Before I forget: sometimes I may start writing in Português Brasileiro. Try
 
 #### Walkthrough: The mathematics & computer skills to get into Formal Theory! A Personal guide.
 
-When around the half of my undergraduation, I happened to come across with two areas that are, since this first contact, my favorites. They are
-Game Theory annd Social Choice Theory. The problem is, even though the professors kept talking about how important those subjects are, they both
+When around half of my undergraduation, I happened to come across with two areas that are, since this first contact, my favorites. They are
+Game Theory and Social Choice Theory. The problem is, even though my professors kept talking about how important those subjects are, they both
 did not teached us the latter, nor did they give us conditions to be able to get into them. Ok, getting to the point: the aforementioned subjects
 requires a lot of math, and here is a list of the subjects needed to get into GT and Theory, with a graph relating the former. The graph illustrates
 a path to be followed, from the basics to GT and SCT. Some explanation on how important each mathject is and for what will also be given, together with
@@ -31,9 +31,8 @@ The Math list:
 1. Precalculus
 2. Differential & Integral Calculus
 3. Probability
-4. Proofs
-5. Discrete Mathematics
-6. Real Analysis
+4. Discrete Mathematics & Proofs
+5. Real Analysis
 ```
 
 ```
